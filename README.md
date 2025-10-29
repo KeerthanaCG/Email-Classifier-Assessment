@@ -27,7 +27,7 @@ Built using **Next.js**, **Node.js**, **Express**, **TypeScript**, and **Materia
 * TypeScript
 * Material UI
 * Context API (Session management)
-* CSS Modules
+* Tailwind
 
 ### **Backend**
 
@@ -36,7 +36,7 @@ Built using **Next.js**, **Node.js**, **Express**, **TypeScript**, and **Materia
 * TypeScript
 * Google APIs
 * OpenAI API
-* dotenv for environment variables
+
 
 ---
 
