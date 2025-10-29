@@ -17,7 +17,7 @@ The app uses Node.js and Express for the backend, and Next.js for the frontend.
 
 ## Project Structure
 
-Email_Classifier/
+ Email_Classifier_Assessment/
 │
 ├── frontend/
 │   ├── src/
@@ -60,8 +60,8 @@ Email_Classifier/
 │   │   ├── app.ts
 │   │   ├── server.ts
 │   │   │
-│   │   ├── config.ts
-│   │   │  
+│   │   ├── config/
+│   │   │   └── env.ts
 │   │   │
 │   │   ├── controllers/
 │   │   │   ├── authController.ts
@@ -88,6 +88,7 @@ Email_Classifier/
 │   └── .env.example
 │
 └── README.md
+
 
 
 
