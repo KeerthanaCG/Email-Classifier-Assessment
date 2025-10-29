@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Next.js
+.next/
+out/
+
+# env
+.env
+.env.local
+.env.*.local
+
+# Logs, OS, editor
+*.log
+.DS_Store
+.vscode/
