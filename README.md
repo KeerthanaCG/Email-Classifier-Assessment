@@ -2,7 +2,7 @@
 
 # **Email Classifier**
 
-An AI-powered email classification platform that connects to Gmail via Google OAuth, fetches emails, and categorizes them (e.g., Important, Delivery, Shipped, etc.) using OpenAI API.
+An AI-powered email classification platform that connects to Gmail via Google OAuth, fetches emails, and categorizes them using OpenAI API.
 Built using **Next.js**, **Node.js**, **Express**, **TypeScript**, and **Material UI**.
 
 ---
