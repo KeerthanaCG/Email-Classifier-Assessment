@@ -16,11 +16,11 @@ The app uses Node.js and Express for the backend, and Next.js for the frontend.
 * User session handling and logout functionality
 
 ## Project Structure
-
+```
 <pre> Email_Classifier_Assessment/ ├── frontend/ │ ├── src/ │ │ ├── app/ │ │ │ ├── globals.css │ │ │ ├── layout.tsx │ │ │ ├── page.tsx │ │ │ └── dashboard/ │ │ │ └── page.tsx │ │ ├── components/ │ │ │ ├── atoms/ │ │ │ │ ├── Button.tsx │ │ │ │ ├── Input.tsx │ │ │ │ └── CategoryChip.tsx │ │ │ ├── molecules/ │ │ │ │ ├── Navbar.tsx │ │ │ │ └── EmailCard.tsx │ │ │ └── organisms/ │ │ │ ├── FilterBar.tsx │ │ │ └── EmailGrid.tsx │ │ ├── context/ │ │ │ └── SessionContext.tsx │ │ ├── hooks/ │ │ │ └── useSession.ts │ │ └── services/ │ │ └── api.ts │ ├── package.json │ ├── tsconfig.json │ └── next.config.js │ ├── backend/ │ ├── src/ │ │ ├── app.ts │ │ ├── server.ts │ │ ├── config.ts │ │ ├── controllers/ │ │ │ ├── authController.ts │ │ │ └── emailController.ts │ │ ├── services/ │ │ │ ├── googleService.ts │ │ │ ├── openaiService.ts │ │ │ └── sessionService.ts │ │ ├── middlewares/ │ │ │ ├── requireSession.ts │ │ │ └── errorHandler.ts │ │ ├── routes/ │ │ │ ├── authRoutes.ts │ │ │ └── emailRoutes.ts │ │ └── types/ │ │ └── index.ts │ ├── package.json │ ├── tsconfig.json │ └── .env.example │ └── README.md </pre>
 
 
-
+```
 
 ## Installation and Setup
 
